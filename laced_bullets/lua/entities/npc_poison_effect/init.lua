@@ -1,2 +1,0 @@
-AddCSLuaFile()
-include("shared.lua")
